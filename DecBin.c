@@ -1,3 +1,9 @@
+/**
+ * @Author:Sayooj K Karun
+ * @Description: Used to store binary of a number to an array
+ * 
+ */
+
 #include <stdio.h>
 #include <stdlib.h>
 
